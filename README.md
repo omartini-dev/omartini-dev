@@ -12,4 +12,4 @@
   </a>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/omartini-dev/omartini-dev/output/github-contribution-grid-snake-dark.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/0xSkyzoX/0xSkyzoX/output/github-contribution-grid-snake-dark.svg)
