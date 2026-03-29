@@ -1,81 +1,121 @@
 <p align="center">
-  <a href="https://github.com/omartini-dev?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/omartini-dev"/>
-  </a>
-  <a href="https://github.com/omartini-dev?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=ff0013&labelColor=ae1206&label=forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/omartini-dev"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Omar%20Martini&fontAlign=50&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Next.js%20%7C%20Sanity%20%7C%20SEO%20%7C%20Security&descAlign=50&descAlignY=58&fontColor=ffffff" alt="header" />
+</p>
+
+<p align="center">
   <a href="https://github.com/omartini-dev?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/omartini-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/omartini-dev/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=omartini-dev&style=for-the-badge&color=lightgrey"/>
+    <img src="https://img.shields.io/github/followers/omartini-dev?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/omartini-dev?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/omartini-dev?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total%20Stars" alt="GitHub stars" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=omartini-dev&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=omartini-dev&style=for-the-badge&color=0e75b6" alt="Profile views" />
   </a>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/0xSkyzoX/0xSkyzoX/output/github-contribution-grid-snake-dark.svg)
+<h1 align="center">Hi, I'm Omar 👋</h1>
 
-## 🚀 Technologies & Tools
+<p align="center">
+  Frontend-focused web engineer building modern, scalable, and content-driven websites.
+  <br />
+  I specialize in <strong>Next.js</strong>, <strong>React</strong>, <strong>Angular</strong>, <strong>Vue.js</strong>, and <strong>Headless CMS with Sanity</strong>,
+  with strong attention to <strong>SEO</strong>, <strong>performance</strong>, and <strong>website security</strong>.
+</p>
 
-### Languages
+---
 
-![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
-![rust](https://img.shields.io/badge/rust-black?style=flat-square&logo=rust)
-![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
-![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
-![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
+## About Me
 
-### Technologies & Frameworks
+- Building high-performance websites and web applications
+- Focused on **Next.js**, **Sanity**, **React**, **Angular**, and **Vue.js**
+- Interested in the engineering side of the web: **SEO**, **security**, **performance**, and **maintainability**
+- I enjoy turning complex requirements into clean, scalable frontend systems
 
-![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
-![nest](https://img.shields.io/badge/nest-black?style=flat-square&logo=nestjs)
-![hibernate](https://img.shields.io/badge/hibernate-black?style=flat-square&logo=hibernate)
-![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6)
-![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
-![tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss)
-![react](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
-![solid](https://img.shields.io/badge/solid-black?style=flat-square&logo=solid&&logoColor=4D84C4)
-![next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js)
-![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
-![bun](https://img.shields.io/badge/bun-black?style=flat-square&logo=bun)
-![tauri](https://img.shields.io/badge/tauri-black?style=flat-square&logo=tauri)
-![prisma](https://img.shields.io/badge/prisma-black?style=flat-square&logo=prisma&logoColor=2D3748)
-![graphql](https://img.shields.io/badge/graphql-black?style=flat-square&logo=graphql&logoColor=E10098)
-![apollo](https://img.shields.io/badge/apollo-black?style=flat-square&logo=apollo-graphql)
-![discord](https://img.shields.io/badge/discord.js-black?style=flat-square&logo=discord)
-![electron](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
-![javafx](https://custom-icon-badges.herokuapp.com/badge/javafx-black.svg?logo=java&logoColor=white&style=flat-square)
-![react-native](https://img.shields.io/badge/react_native-black?style=flat-square&logo=react)
-![expo](https://img.shields.io/badge/expo-black?style=flat-square&logo=expo)
-![angular](https://img.shields.io/badge/angular-black?style=flat-square&logo=angular&logoColor=DD0031)
-![socketio](https://custom-icon-badges.herokuapp.com/badge/socketio-black.svg?logo=socketio&logoColor=white&style=flat-square)
-![express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
-![puppeteer](https://img.shields.io/badge/puppeteer-black?style=flat-square&logo=puppeteer)
-![cypress](https://img.shields.io/badge/cypress-black?style=flat-square&logo=cypress)
-![selenium](https://img.shields.io/badge/selenium-black?style=flat-square&logo=selenium)
-![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
+---
 
-### DevOps & Tools
+## Core Stack
 
-![vscode](https://img.shields.io/badge/vscode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-![intellij](https://img.shields.io/badge/intellij-black?style=flat-square&logo=intellij-idea)
-![datagrip](https://img.shields.io/badge/datagrip-black?style=flat-square&logo=datagrip&logoColor=28D28D)
-![outlook](https://custom-icon-badges.herokuapp.com/badge/outlook-black.svg?logo=outlook&logoColor=blue&style=flat-square)
-![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
-![windows](https://img.shields.io/badge/windows-black?style=flat-square&logo=windows&logoColor=0078D6)
-![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
-![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)
-![gitlab](https://img.shields.io/badge/gitlab-black?style=flat-square&logo=gitlab)
-![circleci](https://img.shields.io/badge/circleci-black?style=flat-square&logo=circleci)
-![github actions](https://img.shields.io/badge/github_actions-black?style=flat-square&logo=github-actions)
-![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
-![postgresql](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql)
-![redis](https://img.shields.io/badge/redis-black?style=flat-square&logo=redis)
-![mongodb](https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb)
-![mysql](https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql)
-![firebase](https://img.shields.io/badge/firebase-black?style=flat-square&logo=firebase)
-![android](https://img.shields.io/badge/android-black?style=flat-square&logo=android)
-![gitkraken](https://img.shields.io/badge/gitkraken-black?style=flat-square&logo=gitkraken)
-![gitkraken](https://img.shields.io/badge/postman-black?style=flat-square&logo=postman)
-![bitwarden](https://img.shields.io/badge/bitwarden-black?style=flat-square&logo=bitwarden&logoColor=175DDC)
-![wordpress](https://img.shields.io/badge/wordpress-black?style=flat-square&logo=wordpress)
-![joomla](https://img.shields.io/badge/joomla-black?style=flat-square&logo=joomla)
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular" />
+  <img src="https://img.shields.io/badge/Vue.js-0F172A?style=for-the-badge&logo=vuedotjs&logoColor=42B883" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity" />
+  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+</p>
+
+---
+
+## What I Work On
+
+### Frontend Development
+- Building responsive and maintainable interfaces
+- Component-driven architecture
+- Design system implementation
+- Clean developer experience and scalable codebases
+
+### Headless CMS & Content Platforms
+- Sanity-powered marketing websites and content systems
+- Flexible content modeling
+- Editor-friendly page builders
+- Structured content for performance and reuse
+
+### Web Engineering
+- Technical SEO implementation
+- Core Web Vitals and performance optimization
+- Website security best practices
+- Accessibility and maintainability improvements
+
+---
+
+## Tools I Use
+
+<p>
+  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+  <img src="https://img.shields.io/badge/Firebase-0F172A?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=omartini-dev&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omartini-dev&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=omartini-dev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## Featured Focus
+
+```ts
+const omar = {
+  role: "Frontend Engineer",
+  specialization: [
+    "Next.js",
+    "React",
+    "Angular",
+    "Vue.js",
+    "Sanity CMS"
+  ],
+  engineeringFocus: [
+    "SEO",
+    "Performance",
+    "Website Security",
+    "Maintainable Architecture"
+  ]
+}
