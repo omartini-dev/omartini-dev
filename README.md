@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Omar%20Martini&fontAlign=50&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Next.js%20%7C%20Sanity%20%7C%20SEO%20%7C%20Security&descAlign=50&descAlignY=58&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Osvaldo%20Martini&fontAlign=50&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Next.js%20%7C%20Sanity%20%7C%20SEO%20%7C%20Security&descAlign=50&descAlignY=58&fontColor=ffffff" alt="header" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm Omar 👋</h1>
+<h1 align="center">Hi, I'm Osvaldo 👋</h1>
 
 <p align="center">
   Frontend-focused web engineer building modern, scalable, and content-driven websites.
