@@ -87,19 +87,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=omartini-dev&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omartini-dev&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=omartini-dev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 ## Featured Focus
 
 ```ts
